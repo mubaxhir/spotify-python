@@ -1,14 +1,17 @@
 # spotify-python
 
-command line:
+#command line:
 pip install spotipy
 
 
-//for access token
+#for access token
 export SPOTIFY_CLIENT_ID="YOUR CLIENT ID"
 export SPOTIFY_CLIENT_SECRET="YOUR CLIENT SECRAT"
 export SPOTIFY_REDIRECT_URI="YOUR APP REDIRECT URI"
 
+
+
+#run
 python spotifyxx.py user_id
 
 
